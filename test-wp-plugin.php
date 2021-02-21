@@ -4,7 +4,7 @@
  * Plugin Name:       GH WP Plugin
  * Plugin URI:        https://github.com/Silicon-Vaalies/test-wp-plugin
  * Description:       My first GH WP Plugin
- * Version:           1.0.4
+ * Version:           2.2.2
  * Author:            Andy Fragen
  * License:           GNU General Public License v2
  * License URI:       https://github.com/Silicon-Vaalies/test-wp-plugin
@@ -20,3 +20,6 @@ function my_function() {
   echo 'hello world';
 }
 
+function my_function_3() {
+  echo 'hello world 3';
+}
