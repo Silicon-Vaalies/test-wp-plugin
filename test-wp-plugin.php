@@ -1,8 +1,10 @@
+<?php
+
 /**
  * Plugin Name:       GitHub Updater
  * Plugin URI:        https://github.com/Silicon-Vaalies/test-wp-plugin
  * Description:       My first GH WP Plugin
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Andy Fragen
  * License:           GNU General Public License v2
  * License URI:       https://github.com/Silicon-Vaalies/test-wp-plugin
